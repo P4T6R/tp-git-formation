@@ -1,10 +1,10 @@
 function login() {
-  const usr = document.getElementById("username").value;
+  const username = document.getElementById("username").value;
   const password = document.getElementById("password").value;
-  if (!usr || !password) {
+  if (!username || !password) {
     console.error("Identifiant et mot de passe requis");
     return false;
   }
-  console.log("Connexion de", usr);
+  console.log("Connexion de", username);
   return true;
 }
