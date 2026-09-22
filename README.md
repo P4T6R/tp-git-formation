@@ -1,2 +1,2 @@
-# TP Git Formation - version U1
+# TP Git Formation - version U1 et U2
 Auteur: U2
